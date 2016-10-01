@@ -1,0 +1,41 @@
+.error_notice_area, .nrml_notice_area {
+
+	margin-right: 65px;
+	
+}
+.nrml_notice_area{
+	margin-top: 63px;
+}
+.error_notice_area label {
+	display:block; 
+	float:left;
+	color:#FF0000;
+	font-size:16px;
+	padding:6px;
+}
+.nrml_notice_area label {
+	display:block; 
+	float:left;
+	color:#008000;
+	font-size:16px;
+	padding:6px;
+	
+}
+.error_notice_area .tex_ar_err, .nrml_notice_area .tex_ar_nrml{
+	width: 100%;
+} 
+.notice_sub{
+	background-color:#0073AA;
+	color: #fff;
+	cursor: pointer;
+	font-size: 16px;
+	margin-top:5px;
+}
+.notice_remv{
+	float: right;
+	background-color:#0073AA;
+	color: #fff;
+	font-size: 16px;
+	margin-top:5px;
+	cursor: pointer;
+}
