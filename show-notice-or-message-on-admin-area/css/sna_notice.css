@@ -1,9 +1,9 @@
-.error_notice_area, .nrml_notice_area {
+.error_notice_area, .sna_normal_notice_area {
 
 	margin-right: 65px;
 	
 }
-.nrml_notice_area{
+.sna_normal_notice_area{
 	margin-top: 63px;
 }
 .error_notice_area label {
@@ -13,7 +13,7 @@
 	font-size:16px;
 	padding:6px;
 }
-.nrml_notice_area label {
+.sna_normal_notice_area label {
 	display:block; 
 	float:left;
 	color:#008000;
@@ -21,7 +21,7 @@
 	padding:6px;
 	
 }
-.error_notice_area .tex_ar_err, .nrml_notice_area .tex_ar_nrml{
+.error_notice_area .tex_ar_err, .sna_normal_notice_area .tex_ar_nrml{
 	width: 100%;
 } 
 .notice_sub{

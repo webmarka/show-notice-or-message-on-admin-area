@@ -1,14 +1,16 @@
-=== Show notice or message on admin area ===
-Contributors: mynamevenu24, clarionwpdeveloper
+=== Show notice or message on admin area (dismissable) ===
+Contributors: webmarka, mynamevenu24, clarionwpdeveloper
 Tags: notice, message, dashboard, dashboard notice, dashboard message, notice dashboard, urgent message, normal message, urgent notice, urgent dashboard
 Requires at least: 3.0.1
-Tested up to: 4.4
-Stable tag: 2.0
+Tested up to: 4.6.1
+Stable tag: 12.0
 License: GPLv2 or later
 
-Show Urgent or Normal notice  on admin dashboard area
+Show Urgent or Normal notice on admin dashboard area, forked by webmarka to enable user dismissable notices.
 == Description ==
-*Show Urgent or Normal notice on admin dashboard area
+*Show Urgent or Normal dismissable notice on admin dashboard area
+
+**[webmarka](http://marc-antoine-minville.com)**
 
 **More Wordpress help please follow Me on this link**
 **[Venugopal](https://venugopalphp.wordpress.com/)**
@@ -18,6 +20,10 @@ Show Urgent or Normal notice  on admin dashboard area
 1. Settings of Notice on dashboard plugin
 
 == Changelog ==
+
+= 12.0 = 
+Forked version by webmarka based on original version 2.0.
+
 = 2.0 = 
 Fixed some bugs
 
